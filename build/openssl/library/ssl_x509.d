@@ -1,0 +1,129 @@
+library/ssl_x509.o: \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/library/ssl_x509.c \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_x509.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_types.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_code.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl3.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/tls1.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/x509_vfy.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_stack.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_methods.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_dbg.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/platform/ssl_opt.h \
+ C:/Users/Sergey/source/repos/EmbeddedProject9/EmbeddedProject9/build/include/sdkconfig.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/platform/ssl_port.h \
+ C:/SysGCC/esp32/esp-idf/master/components/esp_common/include/esp_types.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/cdefs.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/machine/_default_types.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/features.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/stdint.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/_intsup.h \
+ C:/SysGCC/esp32/esp-idf/master/components/log/include/esp_log.h \
+ C:/SysGCC/esp32/esp-idf/master/components/esp_rom/include/esp32/rom/ets_sys.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/stdlib.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/machine/ieeefp.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/_ansi.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/newlib.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/config.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/xtensa/config/core-isa.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/reent.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/_ansi.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/_types.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/machine/_types.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/lock.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/machine/stdlib.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/alloca.h \
+ C:/SysGCC/esp32/esp-idf/master/components/log/include/esp_log_internal.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/string.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/string.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/malloc.h \
+ C:/SysGCC/esp32/esp-idf/master/components/newlib/include/machine/malloc.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/platform/ssl_port.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/openssl/ssl.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_x509.h \
+ C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_pkey.h
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_x509.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_types.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_code.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl3.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/tls1.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/x509_vfy.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_stack.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_methods.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_dbg.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/platform/ssl_opt.h:
+
+C:/Users/Sergey/source/repos/EmbeddedProject9/EmbeddedProject9/build/include/sdkconfig.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/platform/ssl_port.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/esp_common/include/esp_types.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/cdefs.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/machine/_default_types.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/features.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/stdint.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/_intsup.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/log/include/esp_log.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/esp_rom/include/esp32/rom/ets_sys.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/stdlib.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/machine/ieeefp.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/_ansi.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/newlib.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/config.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/xtensa/config/core-isa.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/reent.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/_ansi.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/_types.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/machine/_types.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/lock.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/machine/stdlib.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/alloca.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/log/include/esp_log_internal.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/string.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/sys/string.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/malloc.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/newlib/include/machine/malloc.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/platform/ssl_port.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/openssl/ssl.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_x509.h:
+
+C:/SysGCC/esp32/esp-idf/master/components/openssl/include/internal/ssl_pkey.h:
+/esp-idf/master/components/openssl/library/ssl_x509.c:
